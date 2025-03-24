@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/Projects /JS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.externalBrowser": "Google Chrome"
+	}
+}
